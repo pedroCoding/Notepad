@@ -1,8 +1,14 @@
 # Notepad #
 
->Status de desenvolvimento : Ainda em andamento
+><h3>status de desenvolvimento : Ainda em andamento
 
-Para rodar o projeto na sua máquina local :
+<h4>Para rodar o projeto na sua máquina local :</h2>
 
-1 - Basta clonar o projeto e em seguida abrir o index.html
+```
+Basta clonar o projeto e em seguida abrir o index.html
 com seu navegador de preferência. O mesmo funciona sem Net.
+
+Ainda pretendo dá continuidade do projeto, onde pretendo
+migrar ele para REACT
+
+```
